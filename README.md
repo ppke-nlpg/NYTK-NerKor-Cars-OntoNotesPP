@@ -82,8 +82,22 @@ Morphological annotation in NerKor was discarded in this version.
 
 If you use this resource or any part of its documentation, please cite:
 
+Novák, Attila; Novák, Borbála. (2022) NerKor+Cars-OntoNotes++. In: Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022). pp. 1907-1916.
+
 ```
-Publication to be inserted, please come back later...
+@InProceedings{novak-novak:2022:LREC,
+  author    = {Nov{\'{a}}k, Attila  and  Nov{\'{a}}k, Borb{\'{a}}la},
+  title     = {NerKor+Cars-OntoNotes++},
+  booktitle      = {Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022)},
+  month          = {June},
+  year           = {2022},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {1907--1916},
+    url       = {https://aclanthology.org/2022.lrec-1.203}
+}
+
+
 ```
 
 and the publication presenting the original corpus:
